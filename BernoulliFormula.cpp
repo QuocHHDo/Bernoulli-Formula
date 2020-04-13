@@ -63,5 +63,3 @@ int main()
     else {y = true;}     
   } 
 }
-
-// 0.3456
