@@ -57,7 +57,7 @@ int main()
     formula(); 
     cout << "Value: " << value << endl;
     cout << "Total Sum: " << sum << endl; 
-    cout << "Do you want to continue" << endl;
+    cout << "Do you want to continue? (y/n)" << endl;
     cin >> choice; 
     if(choice != 'y') {y = false;}
     else {y = true;}     
